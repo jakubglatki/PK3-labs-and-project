@@ -1,0 +1,12 @@
+﻿  communication.cpp
+  drawTable.cpp
+  loadTeamsFromFile.cpp
+  main.cpp
+  menuActions.cpp
+  saveTableToFile.cpp
+  schedule.cpp
+  userTeams.cpp
+  Generating Code...
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\userteams.cpp(89): warning C4715: 'userTeams': not all control paths return a value
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\schedule.cpp(48): warning C4715: 'schedule': not all control paths return a value
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\loadteamsfromfile.cpp(9): error C4716: 'loadTeamsFromFile': must return a value

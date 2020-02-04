@@ -1,0 +1,5 @@
+  Position    Team                Points  Played   Wins    Draws   Loses   GS      GC      GD
+
+     1         AC Pajace           6       4       2       0       2       8       6        2
+     2         AC TRACE            6       4       2       0       2       3       3        0
+     3         AC PAJACE           6       4       2       0       2       6       8       -2

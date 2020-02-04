@@ -1,0 +1,31 @@
+﻿  main.cpp
+  match.cpp
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(10): warning C4244: "argument": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(11): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(23): warning C4244: "argument": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(27): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(30): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(42): warning C4244: "argument": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(43): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\match.cpp(52): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  menu.cpp
+  schedule.cpp
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\schedule.cpp(103): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  table.cpp
+  team.cpp
+  teamsPL.cpp
+  Generowanie kodu...
+d:\users\jakub głatki\github\6d47757f-gr32-repo\projekt\football simulator\football simulator\schedule.cpp(47): warning C4715: "schedule”: niewszystkie ścieżki kodu zwracają wartość
+  Football Simulator.vcxproj -> D:\Users\Jakub Głatki\GitHub\6d47757f-gr32-repo\Projekt\Football Simulator\x64\Debug\Football Simulator.exe

@@ -1,0 +1,5 @@
+  Position    Team                Points  Played   Wins    Draws   Loses   GS      GC      GD
+
+     1         Mati                12      4       4       0       0       10      2        8
+     2         Tomus (ale byl leps 3       4       1       0       3       3       5       -2
+     3         Romcio              3       4       1       0       3       3       9       -6

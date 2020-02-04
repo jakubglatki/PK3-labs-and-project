@@ -1,0 +1,22 @@
+  Position    Team                Points  Played   Wins    Draws   Loses   GS      GC      GD
+
+     1         Manchester City     92      38      30      2       6       101     28      73
+     2         Liverpool FC        75      38      22      9       7       74      39      35
+     3         Tottenham Hotspur   74      38      21      11      6       83      45      38
+     4         AFC Bournemouth     67      38      20      7       11      60      38      22
+     5         Arsenal FC          66      38      19      9       10      81      55      26
+     6         Chelsea FC          61      38      17      10      11      81      54      27
+     7         Watford             60      38      16      12      10      52      40      12
+     8         Everton FC          59      38      16      11      11      66      57       9
+     9         Newcastle United    57      38      16      9       13      41      46      -5
+     10        Brighton            55      38      17      4       17      54      63      -9
+     11        Wolverhampton       48      38      12      12      14      39      44      -5
+     12        West Ham United     48      38      13      9       16      57      64      -7
+     13        Southampton FC      45      38      11      12      15      46      55      -9
+     14        Huddersfield Town   42      38      12      6       20      37      59     -22
+     15        Leicester City      41      38      9       14      15      37      51     -14
+     16        Fulham FC           38      38      12      2       24      49      85     -36
+     17        Crystal Palace      34      38      8       10      20      30      65     -35
+     18        Burnley FC          29      38      6       11      21      47      79     -32
+     19        Cardiff City        29      38      6       11      21      42      82     -40
+     20        Manchester United   28      38      5       13      20      34      62     -28
