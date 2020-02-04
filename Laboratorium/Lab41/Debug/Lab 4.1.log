@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Playground.cpp
+d:\users\jakub głatki\github\6d47757f-gr32-repo\laboratorium\lab41\playground.cpp(53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\jakub głatki\github\6d47757f-gr32-repo\laboratorium\lab41\playground.cpp(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\jakub głatki\github\6d47757f-gr32-repo\laboratorium\lab41\playground.cpp(62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\jakub głatki\github\6d47757f-gr32-repo\laboratorium\lab41\playground.cpp(66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\jakub głatki\github\6d47757f-gr32-repo\laboratorium\lab41\playground.cpp(156): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating Code...
+  Lab 4.1.vcxproj -> D:\Users\Jakub Głatki\GitHub\6d47757f-gr32-repo\Laboratorium\Lab41\Debug\Lab 4.1.exe

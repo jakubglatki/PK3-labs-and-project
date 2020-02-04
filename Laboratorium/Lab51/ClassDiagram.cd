@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dragon" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAABAAAAAAARAAAAAAAAAAAQAJAAgAgAAAAAAA=</HashCode>
+      <FileName>Dragon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bee" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAAAAAACQAAAgAAABAAAQAJAAgAgAAAAAAA=</HashCode>
+      <FileName>Bee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dog" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAAAAAAAQAAAAAAACAAAQAJAAgAggAAAAAA=</HashCode>
+      <FileName>Dog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Playground" Collapsed="true">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAiAAAAABABAAEAAAAAQAAAAEAACAAAA=</HashCode>
+      <FileName>Playground.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="console" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Console" Collapsed="true">
+    <Position X="15" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAAASQIBQCUgAABgBAAAACAAABAEAAAEBAAAA=</HashCode>
+      <FileName>Console.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAQAAAgAAAAAEQAAAFAAEAIIAARAEABAA=</HashCode>
+      <FileName>Animal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMADAQAAAAAAgEAAQIIIACAEAAAIQALQCghgQAAABAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalSprite" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAIAAABAAAAgAAAAAAA=</HashCode>
+      <FileName>AnimalSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

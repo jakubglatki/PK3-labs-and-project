@@ -1,0 +1,5 @@
+﻿Animal.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Animal::DetectedAnimal(class Animal const &)" (?DetectedAnimal@Animal@@UEAAXAEBV1@@Z)
+Bee.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Animal::DetectedAnimal(class Animal const &)" (?DetectedAnimal@Animal@@UEAAXAEBV1@@Z)
+Dog.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Animal::DetectedAnimal(class Animal const &)" (?DetectedAnimal@Animal@@UEAAXAEBV1@@Z)
+Dragon.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl Animal::DetectedAnimal(class Animal const &)" (?DetectedAnimal@Animal@@UEAAXAEBV1@@Z)
+D:\Users\Jakub Głatki\GitHub\6d47757f-gr32-repo\Laboratorium\Lab41\x64\Debug\Lab 4.1.exe : fatal error LNK1120: 1 unresolved externals
